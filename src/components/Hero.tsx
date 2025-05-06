@@ -9,7 +9,7 @@ const Hero = () => {
         alt="Profile"
         className="w-32 h-32 mx-auto rounded-full shadow-lg border-4 border-white mb-6"
       />
-      <h1 className="text-5xl font-bold">Hi, I'm John Doe</h1>
+      <h1 className="text-5xl font-bold">Hi, I'm Pavan Goud</h1>
       <p className="mt-4 text-lg text-gray-700">Frontend Developer | React Enthusiast</p>
 
       <div className="mt-6 flex justify-center gap-4">
@@ -23,7 +23,7 @@ const Hero = () => {
           GitHub
         </a>
         <a
-          href="https://github.com/PavanBattini"
+          href="https://www.linkedin.com/in/pavan-goud-222188208/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-black-600 hover:text-black transition"
