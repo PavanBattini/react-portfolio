@@ -1,5 +1,5 @@
 const Skills = () => {
-  const skills: string[] = ["React", "TypeScript", "Tailwind CSS", "ShadCN", "Git","Mysql","Excel"]
+  const skills: string[] = ["Bootstrap 5","React", "TypeScript", "Tailwind CSS", "ShadCN", "Git","Mysql","Excel"]
 
   return (
     <section id="skills" className="py-16 px-4 max-w-4xl mx-auto">
