@@ -24,7 +24,7 @@ const projects =[
     description: "A modern and responsive website showcasing creative office interior designs. Built with HTML and Bootstrap CSS to deliver a clean layout, smooth navigation, and engaging user experience.",
     techStack: ["HTML", "Bootstrap CSS", "JavaScript"],
     github: "https://github.com/yourusername/office-design-website", 
-    demo: "https://office-design-website-pjspqbgup-pavan-gouds-projects.vercel.app/"
+    demo: "https://office-design-website-git-main-pavan-gouds-projects.vercel.app/"
   },
   {
     title: "Training Website",
